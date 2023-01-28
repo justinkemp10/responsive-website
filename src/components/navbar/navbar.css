@@ -1,0 +1,23 @@
+.jgk3__navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 6rem;
+
+}
+
+.jgk3__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.jgk3__navbar-links_logo {
+    margin-right: 2rem;
+}
+
+.jgk3__navbar-links_logo img {
+    width: 60px;
+    height: 60px;
+}
